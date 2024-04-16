@@ -1,7 +1,7 @@
 import openai
 
 # openai.api_key = "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"  #Shafeeq
-openai.api_key = "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"
+openai.api_key = ""
 
 class ChatBot:
     def __init__(self):
